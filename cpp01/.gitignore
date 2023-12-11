@@ -1,0 +1,12 @@
+.vscode
+*.o
+*.replace
+
+# executables
+zombie
+zombiehorde
+ptr_and_ref
+attack
+winner_sed
+harl2.0
+harlFilter

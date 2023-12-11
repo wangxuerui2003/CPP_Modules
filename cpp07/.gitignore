@@ -1,0 +1,7 @@
+.vscode/
+*.o
+*.pdf
+
+template
+iter
+array

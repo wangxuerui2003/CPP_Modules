@@ -1,0 +1,6 @@
+.vscode/
+*.o
+subject.pdf
+convert
+serialization
+identify

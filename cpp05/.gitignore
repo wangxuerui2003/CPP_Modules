@@ -1,0 +1,9 @@
+.vscode/
+*.o
+*.pdf
+
+bureaucrat
+form
+aform
+*_shrubbery
+intern
